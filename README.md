@@ -4,7 +4,7 @@ Class to handle php errors
 
 ## Features
 
-- Show stilized errors
+- Show stylized errors
 
 ## Usage
 
